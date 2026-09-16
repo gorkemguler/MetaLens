@@ -1,0 +1,5 @@
+{
+  "name": { "message": "MetaLens — Dosya Metadata Analizi" },
+  "description": { "message": "Açtığın resim, PDF, Office belgesi ve medya dosyalarının metadata'sını canlı gösterir; GPS, yazar ve gizli verileri bulur ve temizler." },
+  "actionTitle": { "message": "MetaLens" }
+}

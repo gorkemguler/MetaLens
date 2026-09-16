@@ -1,0 +1,5 @@
+{
+  "name": { "message": "MetaLens — File Metadata Inspector" },
+  "description": { "message": "Shows live metadata of the images, PDFs, Office documents and media you open; finds GPS, author and hidden data and removes it." },
+  "actionTitle": { "message": "MetaLens" }
+}

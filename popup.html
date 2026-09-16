@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="tr">
+<head>
+  <meta charset="utf-8">
+  <title>MetaLens</title>
+  <link rel="stylesheet" href="ui.css">
+  <style>
+    html { width: 500px; }
+    body { max-height: 590px; overflow-x: hidden; }
+  </style>
+</head>
+<body class="ml">
+  <header class="top">
+    <img src="icons/32.png" width="20" height="20" alt="">
+    <strong>MetaLens</strong>
+    <label class="switch" data-i18n-title="Resim/PDF/medya sekmelerinde metadata panelini otomatik göster">
+      <input type="checkbox" id="auto"> <span data-i18n>Otomatik panel</span>
+    </label>
+    <select id="lang" class="lang" data-i18n-title="Dil">
+      <option value="auto" data-i18n>Otomatik</option>
+      <option value="tr">Türkçe</option>
+      <option value="en">English</option>
+    </select>
+    <button id="full" class="ml-btn" data-i18n-title="Tam sayfa görüntüleyiciyi aç">⤢</button>
+  </header>
+  <main id="out"></main>
+  <script src="lib/i18n.js"></script>
+  <script src="lib/i18n-en.js"></script>
+  <script src="lib/core.js"></script>
+  <script src="lib/exif.js"></script>
+  <script src="lib/images.js"></script>
+  <script src="lib/pdfcrypt.js"></script>
+  <script src="lib/pdf.js"></script>
+  <script src="lib/office.js"></script>
+  <script src="lib/media.js"></script>
+  <script src="lib/analyze.js"></script>
+  <script src="lib/strip.js"></script>
+  <script src="lib/idb.js"></script>
+  <script src="lib/loader.js"></script>
+  <script src="lib/render.js"></script>
+  <script src="popup.js"></script>
+</body>
+</html>

@@ -1,0 +1,16 @@
+[
+  "lib/i18n.js",
+  "lib/i18n-en.js",
+  "lib/core.js",
+  "lib/exif.js",
+  "lib/images.js",
+  "lib/pdfcrypt.js",
+  "lib/pdf.js",
+  "lib/office.js",
+  "lib/media.js",
+  "lib/analyze.js",
+  "lib/strip.js",
+  "lib/idb.js",
+  "lib/loader.js",
+  "lib/render.js"
+]
