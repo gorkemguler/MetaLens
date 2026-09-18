@@ -13,7 +13,7 @@
 
 **English** · [Türkçe](README.tr.md)
 
-[Features](#features) · [Screenshots](#screenshots) · [Install](#install) · [Usage](#usage) · [Formats](#supported-formats) · [Cleaning](#cleaning) · [Privacy](#privacy) · [Development](#development)
+[Features](#features) · [Screenshots](#screenshots) · [Install](#install) · [Usage](#usage) · [Formats](#supported-formats) · [Cleaning](#cleaning) · [Privacy](#privacy) · [Development](#development) · [Wiki](https://github.com/gorkemguler/MetaLens/wiki)
 
 </div>
 

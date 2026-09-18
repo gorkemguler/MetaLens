@@ -13,7 +13,7 @@
 
 [English](README.md) · **Türkçe**
 
-[Özellikler](#özellikler) · [Ekran görüntüleri](#ekran-görüntüleri) · [Kurulum](#kurulum) · [Kullanım](#kullanım) · [Biçimler](#desteklenen-biçimler) · [Temizleme](#temizleme) · [Gizlilik](#gizlilik) · [Geliştirme](#geliştirme)
+[Özellikler](#özellikler) · [Ekran görüntüleri](#ekran-görüntüleri) · [Kurulum](#kurulum) · [Kullanım](#kullanım) · [Biçimler](#desteklenen-biçimler) · [Temizleme](#temizleme) · [Gizlilik](#gizlilik) · [Geliştirme](#geliştirme) · [Wiki](https://github.com/gorkemguler/MetaLens/wiki/Home#türkçe)
 
 </div>
 
